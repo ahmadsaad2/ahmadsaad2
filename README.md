@@ -1,5 +1,5 @@
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=barasedih11&label=Profile%20views&color=0e75b6&style=flat" alt="barasedih11" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=barasedih11&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsaad2" /> </p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmad+Saad!;" />
@@ -7,10 +7,10 @@
 
 <h3 align="center">A 4th year computer engineer student from Palestine </h3>
 
-<div align="center"
+<div align="center">
  
  🌱 I’m currently learning **Softwer Testing and more...**
-
+</div>
 
 <p align="left"> <a href="https://twitter.com/a7madsaad7" target="blank"><img src="https://img.shields.io/twitter/follow/a7madsaad7?logo=twitter&style=for-the-badge" alt="a7madsaad7" /></a> </p>
 
