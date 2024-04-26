@@ -12,7 +12,6 @@
  🌱 I’m currently learning **Softwer Testing and more...**
 </div>
 
-<p align="left"> <a href="https://twitter.com/a7madsaad7" target="blank"><img src="https://img.shields.io/twitter/follow/a7madsaad7?logo=twitter&style=for-the-badge" alt="a7madsaad7" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
