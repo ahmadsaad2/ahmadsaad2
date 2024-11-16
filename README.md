@@ -8,8 +8,8 @@
 <h3 align="center">A 5th year computer engineer student from Palestine </h3>
 
 <div align="center">
- 
- 🌱 I’m currently learning **Softwer Testing and more...**
+    🌱Data Analyst | CE Student at An-Najah University | Software Developer | Digital Marketer | Data Entry Specialist | Transforming Ideas into Reality
+    🌱 I’m currently learning **Softwer Testing and more...**
 </div>
 
 
