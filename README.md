@@ -9,7 +9,7 @@
 
 <div align="center">
     🌱Data Analyst | CE Student at An-Najah University | Software Developer | Digital Marketer | Data Entry Specialist | Transforming Ideas into Reality
-    🌱 I’m currently learning **Softwer Testing and more...**
+    🌱 I’m currently learning **Back end Development and more...**
 </div>
 
 
