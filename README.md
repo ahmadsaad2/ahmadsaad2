@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmad+Saad!;" />
 </h1>
 
-<h3 align="center">A 5th year computer engineer student from Palestine </h3>
+<h3 align="center"I'm a Computer Engineering from Palestine </h3>
 
 <div align="center">
     🌱Data Analyst | CE Student at An-Najah University | Software Developer | Digital Marketer | Data Entry Specialist | Transforming Ideas into Reality
