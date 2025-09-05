@@ -8,14 +8,13 @@
 <h3 align="center"I'm a Computer Engineering from Palestine </h3>
 
 <div align="center">
-    🌱Data Analyst | CE Student at An-Najah University | Software Developer | Digital Marketer | Data Entry Specialist | Transforming Ideas into Reality
+    🌱Data Analyst | CE Graduated from An-Najah University | Software Developer | Digital Marketer | Data Entry Specialist | Transforming Ideas into Reality
     🌱 I’m currently learning **Back end Development and more...**
 </div>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/a7madsaad7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a7madsaad7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmadsaad7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadsaad7" height="30" width="40" /></a>
 <a href="https://fb.com/a7madsaad7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a7madsaad7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ahmadsaad7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmadsaad7" height="30" width="40" /></a>
