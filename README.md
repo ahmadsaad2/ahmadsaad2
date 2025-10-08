@@ -8,12 +8,12 @@
 <h3 align="center"I'm a Computer Engineering from Palestine </h3>
 
 <div align="center">
-  Full-Stack Developer & QA Engineer | Computer Engineering Graduate | Passionate about Software Development, QA, and Data Analysis
-    🌱 I build reliable web and software applications, perform manual and automated testing, and create data-driven solutions. Experienced with React, Next.js, Node.js, ASP.NET, Python, Selenium, JUnit, Postman, SQL, and more.
+Full-Stack Developer & QA Engineer | Computer Engineering Graduate | Passionate about Software Development, QA, and Data Analysis
+    
+🌱 I build reliable web and software applications, perform manual and automated testing, and create data-driven solutions. Experienced with React, Next.js, Node.js, ASP.NET, Python, Selenium, JUnit, Postman, SQL, and more.
 
 💡 I love solving problems, improving software quality, and learning new tools to deliver impactful projects.
 
-📂 Check out my repositories for frontend, backend, QA/testing, data analysis, and AI projects, all with detailed documentation and live demos where possible.
 </div>
 
 
