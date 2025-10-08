@@ -9,6 +9,8 @@
 
 <div align="center">
 Full-Stack Developer & QA Engineer | Computer Engineering Graduate | Passionate about Software Development, QA, and Data Analysis
+
+
     
 🌱 I build reliable web and software applications, perform manual and automated testing, and create data-driven solutions. Experienced with React, Next.js, Node.js, ASP.NET, Python, Selenium, JUnit, Postman, SQL, and more.
 
